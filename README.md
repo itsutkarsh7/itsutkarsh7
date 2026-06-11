@@ -128,16 +128,6 @@ Custom-built portable cybersecurity device on **Raspberry Pi 5** with tools for 
 - 📜 **Cisco** — Introduction to Cybersecurity · Jul–Oct 2023
 
 ---
-
-## GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsutkarsh7&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsutkarsh7&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
-
----
-
 <p align="center">
   <i>Open to SOC Analyst, GRC, and cybersecurity roles — let's connect!</i>
 </p>
