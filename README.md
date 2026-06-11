@@ -8,7 +8,7 @@
 <p align="center">
   <a href="mailto:utkarsh.singh1224@gmail.com"><img src="https://img.shields.io/badge/Email-utkarsh.singh1224%40gmail.com-0C447C?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://utkarshsinghportfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-utkarshsinghportfolio.vercel.app-185FA5?style=flat-square&logo=vercel&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/utkarsh-singh"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/utkarsh-singh-a76622255/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/itsutkarsh7"><img src="https://img.shields.io/badge/GitHub-itsutkarsh7-24292F?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
