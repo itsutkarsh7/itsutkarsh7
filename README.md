@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Cybersecurity Professional · SOC Operations · Threat Detection & Response</b><br/>
-  B.Tech Computer Science '26 · AKGEC, Ghaziabad
+  B.Tech Computer Science & Engg. '26 · AKGEC, Ghaziabad
 </p>
 
 <p align="center">
